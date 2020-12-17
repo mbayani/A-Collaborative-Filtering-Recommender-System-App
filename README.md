@@ -2,10 +2,9 @@
 
 This is code for a shiny app for a movie recommender based on genre and collaborative filtering. 
 
-Authors:
+Author:
 Mani Bayani (NetID: mbayani2 - University ID: 658712716)
-Omar Kahwaji (NetID: kahwaji2 - University ID: 659375761)
-Negin Kashkooli (NetID: negink2 - University ID: 653412774)
+
 
 Reference(s): Book Recommendation App (https://github.com/pspachtholz/BookRecommender)
 
@@ -22,4 +21,4 @@ In system 1, you should first select a genre, and you can get the recommendation
 
 In system 2, you should first rate some movies (in step 1), and then you can choose the method/algorithm to use (either UBCF or IBCF), and then see the recommended movies by clicking on the green action button.
 
-*We have also provided a text file that includes our github repository for the project.
+*I have also provided a text file that includes our github repository for the project.
