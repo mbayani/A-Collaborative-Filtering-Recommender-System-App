@@ -20,5 +20,3 @@ The app consists of two systems. You can choose each of them by clicking on a ra
 In system 1, you should first select a genre, and you can get the recommendations by clicking on the action button (The green button). It uses one of the algorithms that you choose from the radio buttons, and runs the system against that.
 
 In system 2, you should first rate some movies (in step 1), and then you can choose the method/algorithm to use (either UBCF or IBCF), and then see the recommended movies by clicking on the green action button.
-
-*I have also provided a text file that includes our github repository for the project.
